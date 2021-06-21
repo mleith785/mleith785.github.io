@@ -13,7 +13,7 @@ The second are is an android application I worked on from a mobile development c
 The doom video source code I reviewed is located here [Doom 1993](https://github.com/id-Software/DOOM)
 
 The doom video source code I reviewed is broken out into separate videos to fit with githubs file size limitations.
-- [Part 1](https://github.com/mleith785/mleith785.github.io/Code_Review_Videos/mleith785_Cs499_Code_Review-1.m4v)
+- [Part 1](Code_Review_Videos/mleith785_Cs499_Code_Review-1.m4v)
 - [Part 2](https://github.com/mleith785/mleith785.github.io/Code_Review_Videos/mleith785_Cs499_Code_Review-2.m4v)
 - [Part 3](https://github.com/mleith785/mleith785.github.io/Code_Review_Videos/mleith785_Cs499_Code_Review-3.m4v)
 - [Part 4](https://github.com/mleith785/mleith785.github.io/Code_Review_Videos/mleith785_Cs499_Code_Review-4.m4v)

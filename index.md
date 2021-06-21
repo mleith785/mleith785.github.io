@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Professional Self-Assessment
+
+I am a computer science student with a background in electrical engineering and industrial automation.  My goal for attending  a computer science program was to expand my horizons and learn more about software and its capabilities.  
 
 You can use the [editor on GitHub](https://github.com/mleith785/mleith785.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 

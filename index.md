@@ -14,11 +14,11 @@ The doom video source code I reviewed is located here [Doom 1993](https://github
 
 The doom video source code I reviewed is broken out into separate videos to fit with githubs file size limitations.
 - [Part 1](Code_Review_Videos/mleith785_Cs499_Code_Review-1.m4v)
-- [Part 2](https://github.com/mleith785/mleith785.github.io/Code_Review_Videos/mleith785_Cs499_Code_Review-2.m4v)
-- [Part 3](https://github.com/mleith785/mleith785.github.io/Code_Review_Videos/mleith785_Cs499_Code_Review-3.m4v)
-- [Part 4](https://github.com/mleith785/mleith785.github.io/Code_Review_Videos/mleith785_Cs499_Code_Review-4.m4v)
-- [Part 5](https://github.com/mleith785/mleith785.github.io/Code_Review_Videos/mleith785_Cs499_Code_Review-5.m4v)
-- [Part 6](https://github.com/mleith785/mleith785.github.io/Code_Review_Videos/mleith785_Cs499_Code_Review-6.m4v)
+- [Part 2](Code_Review_Videos/mleith785_Cs499_Code_Review-2.m4v)
+- [Part 3](Code_Review_Videos/mleith785_Cs499_Code_Review-3.m4v)
+- [Part 4](Code_Review_Videos/mleith785_Cs499_Code_Review-4.m4v)
+- [Part 5](Code_Review_Videos/mleith785_Cs499_Code_Review-5.m4v)
+- [Part 6](Code_Review_Videos/mleith785_Cs499_Code_Review-6.m4v)
 
 
 

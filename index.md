@@ -9,10 +9,14 @@ The first area is a code review of what I would critique on C source code.  I to
 The second are is an android application I worked on from a mobile development class and detailing the steps from going from an internal database to placing that database into firebase.  The goal was to show the proof of concept of creating an adroid app with centralized location for data (authentication, app, and user data). 
 
 ## Code Review
-The doom video source code I reviewed is located here [Doom 1993](https://github.com/id-Software/DOOM)
+The doom video source code I reviewed is broken out into separate videos to fit with githubs file size limitations.  They are
+- [Part 1] (https://github.com/mleith785/mleith785.github.io/Code_Review_Videos/mleith785_Cs499_Code_Review-1.m4v)
+- [Part 2] (https://github.com/mleith785/mleith785.github.io/Code_Review_Videos/mleith785_Cs499_Code_Review-2.m4v)
+- [Part 3] (https://github.com/mleith785/mleith785.github.io/Code_Review_Videos/mleith785_Cs499_Code_Review-3.m4v)
+- [Part 4] (https://github.com/mleith785/mleith785.github.io/Code_Review_Videos/mleith785_Cs499_Code_Review-4.m4v)
+- [Part 5] (https://github.com/mleith785/mleith785.github.io/Code_Review_Videos/mleith785_Cs499_Code_Review-5.m4v)
+- [Part 6] (https://github.com/mleith785/mleith785.github.io/Code_Review_Videos/mleith785_Cs499_Code_Review-6.m4v)
 
-
-The video itself is located here [Doom Review Video](https://github.com/mleith785/mleith785.github.io/CodeReviewVideo)
 
 
 

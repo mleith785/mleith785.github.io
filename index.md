@@ -2,6 +2,22 @@
 
 I am a computer science student with a background in electrical engineering and industrial automation.  My goal for attending  a computer science program was to expand my horizons and learn more about software and its capabilities.  
 
+I started this program with very little knowledge of programming as it is traditionally known.  The world of PLC programming is simplified to graphical represenations of boolean logic.  Still the problem solving element exists.  I wanted to see if I could take those problem sovling skills and learn something new.  This portfolio outlines the work I have done in two areas.
+
+The first area is a code review of what I would critique on C source code.  I took code from the github repository for the original doom source code located on github.  I am not a video game developer and though it would be interesting to see if I could understand how the cheat codes worked in doom.
+
+The second are is an android application I worked on from a mobile development class and detailing the steps from going from an internal database to placing that database into firebase.  The goal was to show the proof of concept of creating an adroid app with centralized location for data (authentication, app, and user data). 
+
+## Code Review
+The doom video source code I reviewed is located here [Doom 1993](https://github.com/id-Software/DOOM)
+
+
+The video itself is located here [Doom Review Video](https://github.com/mleith785/mleith785.github.io/CodeReviewVideo)
+
+
+
+I have discovered the common themes of 'keeping it simple', 'build for reuse' and proper planning span across all industries.  
+
 You can use the [editor on GitHub](https://github.com/mleith785/mleith785.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.

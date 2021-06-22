@@ -1,8 +1,8 @@
 
 
 ## Professional Self-Assessment
-
-I am a computer science student with a background in electrical engineering and industrial automation.  My goal for attending  a computer science program was to expand my horizons and learn more about software and its capabilities.  
+![Image](Images/Profile_picture.png)
+Hello!  I am a computer science student with a background in electrical engineering and industrial automation.  My goal for attending  a computer science program was to expand my horizons and learn more about software and its capabilities.  
 
 I started this program with very little knowledge of programming as it is traditionally known.  The world of PLC programming is simplified to graphical represenations of boolean logic.  Still the problem solving element exists.  I wanted to see if I could take those problem sovling skills and learn something new.  This portfolio outlines the work I have done in two areas.
 

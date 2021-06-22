@@ -1,5 +1,5 @@
 
-## 
+
 ## Professional Self-Assessment
 
 I am a computer science student with a background in electrical engineering and industrial automation.  My goal for attending  a computer science program was to expand my horizons and learn more about software and its capabilities.  
@@ -23,9 +23,11 @@ The doom video source code I reviewed is broken out into separate videos to fit 
 - [Part 6](Code_Review_Videos/mleith785_Cs499_Code_Review-6.m4v)
 
 
+## Android Artifact
+The source code I had used for the android demo is located here as a public repository.
 
 
-I have discovered the common themes of 'keeping it simple', 'build for reuse' and proper planning span across all industries.  
+
 
 You can use the [editor on GitHub](https://github.com/mleith785/mleith785.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 

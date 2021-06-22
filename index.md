@@ -23,10 +23,21 @@ The doom video source code I reviewed is broken out into separate videos to fit 
 - [Part 6](Code_Review_Videos/mleith785_Cs499_Code_Review-6.m4v)
 
 
-## Android Artifact
-The source code I had used for the android demo is located here as a public repository. [Campsite Locator](https://github.com/mleith785/FirebaseDB).
+## Android Artifact - Design and Database
+This artifact demonstrated learning about databases and mobile development.  
 
-This artifact is a proof of concept on getting an android app functional with firebase.
+The source code I had used to create the android appis located here as a public repository. [Campsite Locator](https://github.com/mleith785/FirebaseDB).
+### UI Design
+The original step in creating the app was to mock up a wireframe of the behavior.  This image shows the wireframe I designed based on the requirements of the course.   ![Image](Images/Campsite_Locator_Fluid_UI.png)
+
+The program used for achieving the wireframe was [FluidUi](Images/https://www.fluidui.com).
+The UI design was not difficult to achieve using basic activities for each screen with listeners for button presses.  The google documentation was used to help me get over implementing Map support, recycler views, and camera integration.  
+
+### Original Database - SQL Lite
+The project utilized an SQL lite database embedded in the program.  This database would be downloaded onto the phone as an asset.  This was a good learning opportunity for the class, but not the best for an app with multiple users.  The original schema for this database is shown below.
+
+![Image](Images/SQL_Lite_Schema.png)
+
 
 
 

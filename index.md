@@ -1,3 +1,7 @@
+---
+# layout: home
+---
+
 ## Professional Self-Assessment
 
 I am a computer science student with a background in electrical engineering and industrial automation.  My goal for attending  a computer science program was to expand my horizons and learn more about software and its capabilities.  

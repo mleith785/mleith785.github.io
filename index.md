@@ -39,6 +39,9 @@ The project utilized an SQL lite database embedded in the program.  This databas
 ![Image](Images/SQL_Lite_Schema.png)
 
 
+A quick demo of the application working with SQL Lite is shown in this video.
+
+[Original Campsite SQL Lite](Android_App_Videos/Original_SQL_Android_Demo_Smaller_size.mp4)
 
 
 

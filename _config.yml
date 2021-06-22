@@ -1,5 +1,7 @@
-remote_theme: jekyll/minima
+
 title: Welcome to mleith785 homepage!
 description: A portfolio of work done for CS499.
+
+remote_theme: jekyll/minima
 
 

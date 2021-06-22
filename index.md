@@ -24,7 +24,9 @@ The doom video source code I reviewed is broken out into separate videos to fit 
 
 
 ## Android Artifact
-The source code I had used for the android demo is located here as a public repository.
+The source code I had used for the android demo is located here as a public repository. [Campsite Locator](https://github.com/mleith785/FirebaseDB).
+
+This artifact is a proof of concept on getting an android app functional with firebase.
 
 
 

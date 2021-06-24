@@ -40,7 +40,6 @@ The project utilized an SQL lite database embedded in the program.  This databas
 
 
 A quick demo of the application working with SQL Lite is shown in this video.
-
 [Original Campsite SQL Lite](Android_App_Videos/Original_SQL_Android_Demo_Smaller_size.mp4)
 
 
@@ -51,8 +50,7 @@ The firebase version of the Campsite locator app required using NoSQL.  I ended 
 ![Image](Images/SQL_to_NoSQL.png)
 
 I discuss these changes in the attached video below.
-
-[Original Campsite SQL Lite](Android_App_Videos/SQL_to_NoSQL_Overview.mp4)
+[SQL Local DB to NoSQL Firebase Real-time DB](Android_App_Videos/SQL_to_NoSQL_Overview.mp4)
 
 
 ### Android App Code changes and final app demo
@@ -62,6 +60,8 @@ The difference between doing an SQL Lite interface and the NoSQL database is the
 3) The code for Firebase Real-Time database uses event listeners versus SQL queries that were synchronous in the main application.  Meaning, when the SQL database was local on the phone, I could call to query the database and get a response within the same function.  Using the event listeners for NoSQL I had to create callback/listener functions that would wait for the responses and update the UI where appropriate.
 
 Here is a demo of the app working with records updating in firebase.
+[Firebase Campsite Locator 2](Android_App_Videos/Firebase_Nosql_Campsite_App_Demo.mp4)
+
 
 
 

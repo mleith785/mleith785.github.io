@@ -45,16 +45,23 @@ A quick demo of the application working with SQL Lite is shown in this video.
 
 
 
-You can use the [editor on GitHub](https://github.com/mleith785/mleith785.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Firebase Database - NoSQL
+### Firebase Database - SQL to NoSQL
 The firebase version of the Campsite locator app required using NoSQL.  I ended up exporting the SQL lite database I had and turned it into documents for the queries.  The picture below shows a snippet of how the schema changed from SQL to NoSQL.  In general, I made new NoSQL paths that corresponded to the original SQL tables.  I removed all primary keys from the SQL database and used the document identifier/key as the replacement in NoSQL.  This ID was used to identify a unique document/record in the campsite database.
 
 ![Image](Images/SQL_to_NoSQL.png)
 
+I discuss these changes in the attached video below.
 
+[Original Campsite SQL Lite](Android_App_Videos/SQL_to_NoSQL_Overview.mp4)
+
+
+### Android App Code changes and final app demo
+The difference between doing an SQL Lite interface and the NoSQL database is the following.
+1) I could not store a BLOB type in the NoSQL database so I placed that as a path in the NoSQL database with the image asset in FireStore.
+2) The SQL queries supported multiple 'Where' clauses whereas NoSQL only supported one.  This meant NoSQL would query off of one key: value pair per directory.  I had to be careful which to choose and let the android app do the remaining text filtering for the record of interest.
+3) The code for Firebase Real-Time database uses event listeners versus SQL queries that were synchronous in the main application.  Meaning, when the SQL database was local on the phone, I could call to query the database and get a response within the same function.  Using the event listeners for NoSQL I had to create callback/listener functions that would wait for the responses and update the UI where appropriate.
+
+Here is a demo of the app working with records updating in firebase.
 
 
 

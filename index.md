@@ -63,7 +63,22 @@ Here is a demo of the app working with records updating in firebase.
 [Firebase Campsite Locator 2](Android_App_Videos/Firebase_Nosql_Campsite_App_Demo.mp4)
 
 
+## Algorithms - Depth and Breadth first search
 
+These two algorithms demonstrate traversing a tree in different ways.  Depth first search uses fewer lines of code but often uses recursion to avhieve the traversal.  Breadth first search takes more lines of code but no recursion is required to traverse the tree.  The following picture shows the ndoe order visitation for these two methods.
 
+### Depth first search
+![Image](Images/DFS_image.png)
+
+The arrows indicate each nodes associated children.  The number on each arrow is the visitation order.  Depth first search usually traverses as far left as it can.  When it can no longer go left, it backs up and goes to the right and continues to go as far left as it can.  This process keeps going until there are no more left or right visitations needed.
+
+### Breadth first search
+![Image](Images/BFS_image.png)
+
+The graph for breadth first search is the same.  Meaning, the data and child relationships are identical.  The only difference here is that each tree level is visted in sequence.  This eliminates the need for recursion and achieves the same goal of visiting each node.
+
+An explanation of this and an example of the code to test these two types is available here.
+[Video of DFS and BFS](Algorithm_videos\dfs_bfs_video.m4v)
+[DFS BFS algorithm File](https://github.com/mleith785/Algo_examples).
 
 

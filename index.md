@@ -78,7 +78,10 @@ The arrows indicate each nodes associated children.  The number on each arrow is
 The graph for breadth first search is the same.  Meaning, the data and child relationships are identical.  The only difference here is that each tree level is visted in sequence.  This eliminates the need for recursion and achieves the same goal of visiting each node.
 
 An explanation of this and an example of the code to test these two types is available here.
+
 [Video of DFS and BFS](Algorithm_videos\dfs_bfs_video.m4v)
+
+
 [DFS BFS algorithm File](https://github.com/mleith785/Algo_examples).
 
 
